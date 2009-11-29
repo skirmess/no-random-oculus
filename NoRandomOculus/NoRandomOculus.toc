@@ -1,0 +1,10 @@
+## Interface: 30200
+## Title: NoRandomOculus
+## Author: Sven Kirmess
+## Notes: Whenever you login it automatically extends your Oculus instance id therefore reducing the chance that the random daily will be Oculus for you.
+## OptionalDeps:
+## Dependencies:
+## SavedVariables:
+## X-Website: http://code.google.com/p/no-random-oculus/
+localization.lua
+NoRandomOculus.lua
