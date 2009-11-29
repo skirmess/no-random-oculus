@@ -8,7 +8,7 @@ NoRandomOculus_localization.enUS = {
 }
 
 NoRandomOculus_localization.deDE = {
-	OCULUS					= "The Oculus"
+	OCULUS					= "Das Oculus"
 }
 
 NoRandomOculus_localization.frFR = {

@@ -5,6 +5,9 @@ Automatically extends your Oculus id whenever you login. This should make it les
 
 *** Changelog
 
+Version 2
+ * Added support for German client
+
 Version 1
  * Initial release
 
