@@ -3,7 +3,7 @@
 
 local Version = 2
 
-function EventHandler(self, event, ...)
+local function EventHandler(self, event, ...)
 
 	if ( event == "PLAYER_ENTERING_WORLD" ) then
 
